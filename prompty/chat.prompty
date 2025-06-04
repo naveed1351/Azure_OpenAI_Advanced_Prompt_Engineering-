@@ -9,7 +9,7 @@ model:
         azure_deployment: gpt-4o
     parameters:
         max_tokens: 256
-        temperature: 0.2
+        temperature: 0.3
 
 inputs:
     question:

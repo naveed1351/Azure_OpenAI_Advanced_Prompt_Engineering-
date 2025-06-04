@@ -10,7 +10,7 @@ model:
         azure_endpoint: ${env:AZURE_OPENAI_ENDPOINT}
     parameters:
         max_tokens: 128
-        temperature: 0.2
+        temperature: 0.3
 inputs:
   question:
     type: string

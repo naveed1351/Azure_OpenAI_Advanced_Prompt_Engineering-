@@ -8,7 +8,7 @@ model:
     connection: my_azure_open_ai_connection
     azure_deployment: gpt-4o
   parameters:
-    temperature: 0.2
+    temperature: 0.3
     response_format: { "type": "json_object" }
 inputs: 
   question:
