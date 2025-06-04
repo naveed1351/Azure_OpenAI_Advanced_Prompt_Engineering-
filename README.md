@@ -39,7 +39,7 @@ In Azure AI Foundry /OpenAI → Deployments, ensure the following models are dep
 
 3. Clone the Repository:
  
-git clone https://github.com/naveed1351/AzureOpenAI_Advanced_Prompt_Engineering.git 
+git clone https://github.com/naveed1351/Azure_OpenAI_Advanced_Prompt_Engineering-.git
 cd AzureOpenAI_Advanced_Prompt_Engineering  
  
 
