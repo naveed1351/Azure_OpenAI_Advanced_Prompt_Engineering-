@@ -1,0 +1,8 @@
+openai
+typing-extensions
+tiktoken
+promptflow
+promptflow-tools
+promptflow-devkit
+keyrings.alt
+python-dotenv
