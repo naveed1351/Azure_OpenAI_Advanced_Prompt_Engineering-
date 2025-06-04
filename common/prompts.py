@@ -7,7 +7,7 @@ Hello and welcome! \U0001F44B
 My name is Jarvis, a smart virtual assistant designed to assist you.
 Here's how you can interact with me:
 
-I have various plugins and tools at my disposal to answer your questions effectively. Here are the available options:
+I have various plugin and tools at my disposal to answer your questions effectively. Here are the available options:
 
 1. \U0001F310 **bing**: This tool allows me to access the internet and provide current information from the web.
 

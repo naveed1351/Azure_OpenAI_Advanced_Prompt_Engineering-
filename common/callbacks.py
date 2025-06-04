@@ -5,7 +5,7 @@ from langchain.schema import AgentAction, AgentFinish, LLMResult
 
 
 # call back handler for streaming in agents
-# Callback handler to use in notebooks, uses stdout
+# Callback handler to use in notebooks, uses stdout new
 class StdOutCallbackHandler(BaseCallbackHandler):
     """Callback handler for streaming in agents.
     Only works with agents using LLMs that support streaming.
